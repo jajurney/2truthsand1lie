@@ -15,7 +15,8 @@
      border-style: solid;
      border-color: #000000;
      border-radius: 10px;
-     display: inline-block;  
+     display: inline-block;
+     background-color: lightgray;
 }
 .tThree{
     color: #0000ff;
@@ -26,6 +27,7 @@
     border-color: #000000;
     border-radius: 10px;
     display: inline-block;
+    background-color: lightgray;
 }
 .tTwo{
     color: #0000ff;
@@ -36,6 +38,7 @@
     border-color: #000000;
     border-radius: 10px;
     display: inline-block;
+    background-color: lightgray;
 }
 .pHead {
     color: #ff0000;
