@@ -1,0 +1,43 @@
+.aHeader{
+    color: #90ee90;
+    border-width: thick;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 15px;
+    background-color: #808080;
+    text-align: center;
+}
+.tOne { 
+     color: #0000ff;
+     text-align: center;
+     width: 300px;
+     border-width: thick;
+     border-style: solid;
+     border-color: #000000;
+     border-radius: 10px;
+     display: inline-block;  
+}
+.tThree{
+    color: #0000ff;
+    text-align: center;
+    width: 300px;
+    border-width: thick;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 10px;
+    display: inline-block;
+}
+.tTwo{
+    color: #0000ff;
+    text-align: center;
+    width: 300px;
+    border-width: thick;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 10px;
+    display: inline-block;
+}
+.pHead {
+    color: #ff0000;
+}
+
